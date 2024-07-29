@@ -6,7 +6,7 @@
 //
 
 /**
- * @file Shaped recipe additions for Valhelsia 6.
+ * @file Shaped recipe additions for Valhelsia 7.
  * 
  * Contains several convenience functions for frequently used shapes.
  * 
