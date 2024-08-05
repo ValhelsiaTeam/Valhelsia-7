@@ -681,6 +681,11 @@ hash = "330eae6dd751b70d4761f5fb556bc476f693549f3eb42ff7f441e1cd5bfe3cfb"
 metafile = true
 
 [[files]]
+file = "mods/raised.pw.toml"
+hash = "f065345cb311cb511f4067107cc84b276c44223a23130e149e758b7ba43aa313"
+metafile = true
+
+[[files]]
 file = "mods/recipe-essentials-forge-fabric.pw.toml"
 hash = "fc77a96640d0cdc6f604ba0627664dd38e1a34c60007f709d8dbe3a6e17c6c05"
 metafile = true
