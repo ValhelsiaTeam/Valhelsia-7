@@ -272,7 +272,7 @@ metafile = true
 
 [[files]]
 file = "mods/applied-energistics-2.pw.toml"
-hash = "a48a9b8e49c98bba83090b2e86fd25a862336f8a88d54e985c165838d0b961cc"
+hash = "0b43d1ecf7067251b7420f1a77133c0085df84e467a69f9e424ee97c2e93f797"
 metafile = true
 
 [[files]]
@@ -337,7 +337,7 @@ metafile = true
 
 [[files]]
 file = "mods/chalk.pw.toml"
-hash = "df1f7cda5daf26db3a217248c8863a77beeb2f566e297414aff4bcba706e6e10"
+hash = "70c4a207d7f768fdc3289ac45a3da7e088917ae3591a56fe0227a2d529706655"
 metafile = true
 
 [[files]]
@@ -517,7 +517,7 @@ metafile = true
 
 [[files]]
 file = "mods/framedblocks.pw.toml"
-hash = "feb86b069af80ff7ca020c358b7986499f6eb9d64595fcb6d174383e7b53ac11"
+hash = "8cc68b12f634bf3094b2bb6031017c30332fd2911989ffe7d3be018a7c9100d2"
 metafile = true
 
 [[files]]
@@ -567,12 +567,12 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "1bcfe202804f41e7bab7ebac5d914e1703390e4f2da49be3500ea2139d247ea8"
+hash = "e82cea759bde896a370d67626c9b77ed1e920c1820a530abdf06538aa3fd854f"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "2a4b91ee5241337d5c3e5388e9c3bd5428e6cf163038acb2bed79181a6f52220"
+hash = "bcc1ff5285f07fc1a09c2ea360131a0fa6d74cc74934f13b006c8712e5b65e91"
 metafile = true
 
 [[files]]
@@ -662,7 +662,7 @@ metafile = true
 
 [[files]]
 file = "mods/placebo.pw.toml"
-hash = "f85ea225b1842973787048fee59e2baff821349dcac41926ebd05928eedb427b"
+hash = "597a1b0d5c7f14d6db7aa4a14a2c2f8c2f00370abcf8c1636b2200af081ab3ca"
 metafile = true
 
 [[files]]
