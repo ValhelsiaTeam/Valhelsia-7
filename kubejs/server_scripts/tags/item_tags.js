@@ -148,7 +148,7 @@ ServerEvents.tags('item', event => {
     'farmersdelight:fried_egg',
     'farmersdelight:smoked_ham', // or steamed. ;)
     'forbidden_arcanus:cooked_tentacle',
-    'incubation:fried_egg',
+    //'incubation:fried_egg',
     //'neapolitan:roasted_adzuki_beans',
     //'quark:cooked_crab_leg',
     //'twilightforest:cooked_meef',
