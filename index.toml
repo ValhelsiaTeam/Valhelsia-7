@@ -467,7 +467,7 @@ metafile = true
 
 [[files]]
 file = "mods/falling-tree.pw.toml"
-hash = "f3a17232a878800a41e3c00adb026d7f8a1b01d72899634084c1f98646022624"
+hash = "87edf9b71df24a7302ade693069a07384c6fd9c034a1b2a216013036543da854"
 metafile = true
 
 [[files]]
@@ -567,12 +567,12 @@ metafile = true
 
 [[files]]
 file = "mods/jamlib.pw.toml"
-hash = "e82cea759bde896a370d67626c9b77ed1e920c1820a530abdf06538aa3fd854f"
+hash = "e8972c4a5025293cb6c12c7c7ebdc768cc38b679b027e14ef9827b6e71007a97"
 metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "bcc1ff5285f07fc1a09c2ea360131a0fa6d74cc74934f13b006c8712e5b65e91"
+hash = "9fe102aed3bd214cc6be8145285786eed2bb62aff87c3879251201372675801d"
 metafile = true
 
 [[files]]
@@ -712,7 +712,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-backups.pw.toml"
-hash = "57cf7772a6956b2ab40210b4976f1eada5078c9a767f76b7a195a58eabbbdd9e"
+hash = "1f9effd757321629121857d2ad38b70c03befb89a99a8e65c56e2efd749042a5"
 metafile = true
 
 [[files]]

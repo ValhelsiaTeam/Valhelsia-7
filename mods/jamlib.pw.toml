@@ -1,13 +1,13 @@
 name = "JamLib"
-filename = "jamlib-neoforge-1.0.10+1.21.jar"
+filename = "jamlib-neoforge-1.0.11+1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "f5013d9e804c95289de3ebd7ade46288890b9e86"
+hash = "e6be53e5d86af8ae6376fc9127e8390816d83a8f"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5595156
+file-id = 5599265
 project-id = 623764
