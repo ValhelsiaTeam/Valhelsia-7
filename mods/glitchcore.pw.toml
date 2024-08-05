@@ -1,0 +1,13 @@
+name = "GlitchCore"
+filename = "GlitchCore-neoforge-1.21-2.0.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "54d4474b2f87221b44edf558e6d21443f98f15d5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5483773
+project-id = 955399

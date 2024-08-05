@@ -1,0 +1,13 @@
+name = "KubeJS"
+filename = "kubejs-neoforge-2100.7.0-build.119.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "126db7eb2d74661d7cc249fea6e13594e293a05a"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5580858
+project-id = 238086

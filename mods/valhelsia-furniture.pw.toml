@@ -1,0 +1,13 @@
+name = "Valhelsia Furniture"
+filename = "valhelsia_furniture-neoforge-1.21-1.1.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b2196e251a8337763d3b75abb0415439829a3b82"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5516847
+project-id = 694349

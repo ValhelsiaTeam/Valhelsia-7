@@ -1,0 +1,13 @@
+name = "Biomes O' Plenty"
+filename = "BiomesOPlenty-neoforge-1.21-21.0.0.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "fed8c1e9f9e56e7ddc0ed2ea31afa9c236096027"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5576779
+project-id = 220318

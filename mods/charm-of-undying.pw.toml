@@ -1,0 +1,13 @@
+name = "Charm of Undying (Fabric/Forge/Quilt)"
+filename = "charmofundying-neoforge-9.0.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "d3a18353b8f90eaba845ddd4e230fbea4f2ba958"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5579935
+project-id = 316873

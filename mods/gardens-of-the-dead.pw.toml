@@ -1,0 +1,13 @@
+name = "Gardens of the Dead"
+filename = "gardens-of-the-dead-neoforge-5.0.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "26a55da93c0507522b9c659c0a7f87261024458f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5451123
+project-id = 683174

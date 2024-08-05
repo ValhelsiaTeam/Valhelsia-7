@@ -1,0 +1,13 @@
+name = "Ambient Environment"
+filename = "AmbientEnvironment-neoforge-1.21-17.0.0.5.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "3e61c0b59fb92ba5069c0a458b80dd0468c5771c"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5429891
+project-id = 320163
