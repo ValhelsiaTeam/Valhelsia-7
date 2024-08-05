@@ -142,6 +142,15 @@ ServerEvents.recipes(event => {
   //plusWrapped(Item.of('akashictome:tome', AKASHIC_TOME_NBT), 'minecraft:book', '#forge:bookshelves', 'filled_akashic_tome');
 
   // Minecraft
+  event.shaped('minecraft:bundle', [
+    'SCS',
+    'C C',
+    'CCC'
+  ], {
+    S: '#c:strings',
+    C: ['minecraft:rabbit_hide', 'farmersdelight:canvas']
+  }).id(`${ID_PREFIX}bundle`);
+  
   shaped3x3('minecraft:cobweb', 'minecraft:string', 'cobweb');
 
   donut('minecraft:chest', '#minecraft:planks', 'oak_chest');
@@ -185,15 +194,6 @@ ServerEvents.recipes(event => {
   ], {
     A: 'minecraft:chain'
   }).id(`${ID_PREFIX}chainmail_boots`);
-
-  event.shaped('minecraft:bundle', [
-    'SCS',
-    'C C',
-    'CCC'
-  ], {
-    S: '#c:strings',
-    C: 'farmersdelight:canvas'
-  }).id(`${ID_PREFIX}bundle`);
   
   event.shaped('4x minecraft:ladder', [
     'A A',
