@@ -711,8 +711,18 @@ hash = "89a52200e1c271fbf0f24b741b42c4dede6eddf6a3b520f12a10f543adb00df2"
 metafile = true
 
 [[files]]
+file = "mods/sawmill.pw.toml"
+hash = "3d2b6b42c32d75b38595ddad825c42f25c5b75439c151ee97864cf97ff502bfa"
+metafile = true
+
+[[files]]
 file = "mods/searchables.pw.toml"
 hash = "92469800a6e657f2c681de247d6517bc98506ffe78fd55f88e9364993e80dc10"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "5fd5794c6016900632a4a6a530f6313f83e9c8c5f03dcd3d89dc69c0352f209f"
 metafile = true
 
 [[files]]
