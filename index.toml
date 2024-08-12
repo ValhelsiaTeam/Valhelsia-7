@@ -371,6 +371,11 @@ hash = "eebfcdff3ea35dbd5544f3bd53603ab76c3b32b9e609cdbd522c9a02947d12c7"
 metafile = true
 
 [[files]]
+file = "mods/clean-tooltips.pw.toml"
+hash = "ac21a52987de6f3c28614e062e6d5f86cdca31a588b1590aa4a1334c60c42b08"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "5955fb2e89574381012049556279b91b5230ed3ebd14cdbb56d1d72f1d2abf56"
 metafile = true
@@ -758,6 +763,11 @@ metafile = true
 [[files]]
 file = "mods/terrablender-neoforge.pw.toml"
 hash = "ad7b89bda5812c38e98bcc67e82041c835ed377710be4e5a3b8735e46ddc90be"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "594eb0bed42fa7e5e41bd1f938940f9f62592bcb76a1ba20807bdf9e31e6f413"
 metafile = true
 
 [[files]]
