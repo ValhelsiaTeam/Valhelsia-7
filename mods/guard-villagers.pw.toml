@@ -1,13 +1,13 @@
 name = "Guard Villagers"
-filename = "guardvillagers-2.2.8-1.21.jar"
+filename = "guardvillagers-2.3.0-1.21.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "4ee3e10801026ce217cf08d778c3e6e01a391117"
+hash = "15e0fbd0c0800bc6bdf628ba60f92105f087c2f1"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5552800
+file-id = 5605256
 project-id = 360203
