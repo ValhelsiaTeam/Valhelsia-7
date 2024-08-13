@@ -1,13 +1,13 @@
 name = "spark"
-filename = "spark-1.10.73-neoforge.jar"
+filename = "spark-1.10.97-neoforge.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "c7ba52af98804e8cc668e2e91caeb026084ce112"
+hash = "51f7c7c64224cfe817eb1c9f506094860896cbab"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5434153
+file-id = 5622205
 project-id = 361579

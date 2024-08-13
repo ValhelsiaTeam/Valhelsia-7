@@ -287,7 +287,7 @@ metafile = true
 
 [[files]]
 file = "mods/artifacts.pw.toml"
-hash = "ae111e1818d3b798e057eb9416f9af1a29aa292fbd938bb85e548bc4985e6256"
+hash = "3abfbd0c0c032d3037dd4e118e371b7b329d0bc1f71d9a8cc4819afa95c98a02"
 metafile = true
 
 [[files]]
@@ -297,7 +297,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "6d59062d834d74cb92ae48ae1c4bf1455291b97d228ce5ae364d0fba7008259a"
+hash = "8e407c34e8864d5ae74ac35c0eb6af6b5b4e2c3d52d629088139d126042602b7"
 metafile = true
 
 [[files]]
@@ -307,7 +307,7 @@ metafile = true
 
 [[files]]
 file = "mods/betterdays.pw.toml"
-hash = "62a2c3805266cbc41535bb7e72bda1d1a3afca016d5fcb7bb87b6a67c3b09ede"
+hash = "14404dcbfb2d163eb283ee7c0b20b986b8b1f87bb1d496a81bec087993ccd631"
 metafile = true
 
 [[files]]
@@ -377,7 +377,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "5955fb2e89574381012049556279b91b5230ed3ebd14cdbb56d1d72f1d2abf56"
+hash = "1aa4ca58873fe111944914ec0fb00ba3ceef28adf4e4385738433bfa99448c01"
 metafile = true
 
 [[files]]
@@ -407,7 +407,7 @@ metafile = true
 
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
-hash = "80b1e99ca4bb6c286c5acf607aa873a346b22f5f05c966a79fe5c18feabee4d9"
+hash = "ae9396aaae44147b39fed09dce8f3d7fc254bf8f81c867b37b12238c0dc59167"
 metafile = true
 
 [[files]]
@@ -432,7 +432,7 @@ metafile = true
 
 [[files]]
 file = "mods/default-options.pw.toml"
-hash = "2a5d3b159217cf9b297dda79a292d55886d8211581b926036f0e394e4d6bfb04"
+hash = "7836ea09518f135d8811f06e9bbf710b9f158b63e65cdaeaa51741d72ec10c34"
 metafile = true
 
 [[files]]
@@ -582,7 +582,7 @@ metafile = true
 
 [[files]]
 file = "mods/kleeslabs.pw.toml"
-hash = "c9a1622a69a4d342b58f6cb2f3de6b5101265b14218bbb4f48ab65f731dbff4e"
+hash = "95f5aa09664c2e11d2e1664c5dbfe98a8a015b9e1bf06150a0e31ff561649798"
 metafile = true
 
 [[files]]
@@ -647,7 +647,7 @@ metafile = true
 
 [[files]]
 file = "mods/netherportalfix.pw.toml"
-hash = "6bca35afd53e20c0e54d9aa56515e7bd37281610ddc8570dd97e7b7cf8bdf770"
+hash = "78cf82fda4c8a7ea9556cf4481b43f38762151bcac0a09fd412f82d5f0883cc7"
 metafile = true
 
 [[files]]
@@ -752,12 +752,12 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "85346fab903926d41760b3966386841236cfcfed81a1f96d971320bb9be6ac70"
+hash = "76ec8ae9676925f41d34c16b8a1aed516dc49f30211dcdca4c44f13e9ef9ffce"
 metafile = true
 
 [[files]]
 file = "mods/storage-drawers.pw.toml"
-hash = "31df240bd48f760992a78c1d971da12ee53ebaebaa681a6cd394cf2b50471c2c"
+hash = "43b8536197a5a5688dd233b9cc9608c9aad80b23130b754e7092c15456253c61"
 metafile = true
 
 [[files]]
@@ -782,7 +782,7 @@ metafile = true
 
 [[files]]
 file = "mods/trashslot.pw.toml"
-hash = "b547393f9cc3a3dc23047f35f672ccdafa8dbc979f0258f7d172324919ac9fe4"
+hash = "f745181fac5b81881ea1349432e1d4307ea3fe211c22868f2b5b2183a0315d99"
 metafile = true
 
 [[files]]
@@ -797,7 +797,7 @@ metafile = true
 
 [[files]]
 file = "mods/waystones.pw.toml"
-hash = "8a13df19955681344d08962d54360daa457899621fefc0f915f42270f6c42d69"
+hash = "e76614257e68feeeed94c275e9f4dacc0a7b3ff3010b5e77ffac0c4c5392b34e"
 metafile = true
 
 [[files]]

@@ -1,13 +1,13 @@
 name = "Default Options"
-filename = "defaultoptions-neoforge-1.21-21.0.5.jar"
+filename = "defaultoptions-neoforge-1.21.1-21.1.1.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "7138af25656bbcfb3287d583a439eb9f48301c64"
+hash = "7c223605c5ca4d628bac859b12dfa6fef3e4aabf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 5485060
+file-id = 5623461
 project-id = 232131
